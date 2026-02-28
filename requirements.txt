@@ -1,11 +1,13 @@
 matplotlib
 numpy
-pandas
+#pandas
 seaborn
 scikit-learn
 catboost
 xgboost
 lightgbm
 -e .
+pandas
+
 
 
